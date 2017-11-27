@@ -14,6 +14,7 @@ namespace Test_Task.UnitTests
         /// </summary>
         IEmployeeManager _manager;
 
+
         /// <summary>
         /// Проверка правельности работы методов в штатном режиме
         /// </summary>
